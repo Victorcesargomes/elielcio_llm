@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- Ambientes virtuais ----
+env/
+.venv/
+venv/
+
+# ---- Variáveis de ambiente / segredos ----
+.env
+
+# ---- VSCode ----
+.vscode/
+
+# ---- Logs ----
+*.log
+app.log
+
+# ---- Arquivos de dados grandes ou sensíveis ----
+*.csv
+*.pdf
+
+# ---- Outros ----
+.DS_Store
